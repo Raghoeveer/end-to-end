@@ -23,7 +23,7 @@ version = '0.0.1',
 author = 'Raghuveer',
 author_email = "raghuveer0508@gmail.com",
 packages = find_packages(),
-install_requires = get_requirements('requirements.txt')
+install_requires = get_requirements('requirements .txt')
 
 
 )
